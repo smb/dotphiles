@@ -24,6 +24,7 @@ dotsyncrc
 #ctags/ctags
 #cmus
 #curl/curlrc
+dircolors
 #git/gitconfig
 #git/gitignore
 #git/gitattributes
@@ -60,8 +61,8 @@ dotsyncrc
 #task/taskrc
 #tmux/tmux.conf
 #tmux/tmuxinator
-#vim/dotvim:.vim
-#vim/vimrc
+vim/dotvim:.vim
+vim/vimrc
 #vim/gvimrc
 #wget/wgetrc
 #zsh/fasdrc
